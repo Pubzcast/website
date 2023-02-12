@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!--
-	Dimension by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Dimension by HTML5 UP	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -16,29 +17,18 @@
       <header id="header">
         <div class="logo"> <span class="icon fa-gem"></span> </div>
         <div class="content">
-          <div class="inner"> <img src="images/Pubzcast_logo.png" alt="Logo for Pubzcast.com"
-              title="Pubzcast.com Logo" longdesc="images/Pubzcast_logo.png">
-            <h1>pUBZCAST</h1>
-            <p><br>
-            </p>
-            <p><br>
-            </p>
-            <p>The Pubzcast is both produced and hosted by Publicz AKA Pubz.
-              Covering a range of issues from current news events, politics,
-              history and public policy. The aim of the pubzcast is about
-              raising awareness and sharing pubz’s unique perspective. </p>
-            <p>Would you like to contribute to the success of the pubzcast
-              broadcast? If you have a topic to recommend or would like to
-              participate in a live conversation with publicz, maybe you have
-              interest in becoming a chat mod, just contact pubz via email
-              pubzcast@protonmail.com or via twitter @pubzcast.
-            </p>
+          <div class="inner">
+            <h1>Dimension</h1>
+            <p>A fully responsive site template designed by <a href="https://html5up.net">HTML5
+                UP</a> and released<br>
+              for free under the <a href="https://html5up.net/license">Creative
+                Commons</a> license.</p>
           </div>
         </div>
         <nav>
           <ul>
-            <li><a href="#intro">About Me</a></li>
-            <li><a href="#work">Share</a></li>
+            <li><a href="#intro">Intro</a></li>
+            <li><a href="#work">Work</a></li>
             <li><a href="#about">Support</a></li>
             <li><a href="#contact">Contact</a></li>
             <!--<li><a href="#elements">Elements</a></li>-->
